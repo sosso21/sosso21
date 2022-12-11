@@ -1,4 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/1-1.PNG?alt=media&token=ad5e4411-54b2-4a4b-9e5a-fa80a44b6a4a)](https://rishavchanda.io)
+ 
 <h1 align="center">Hi 👋, I'm Hermes</h1>
 <h3 align="center">Hello, I am pationnée by the money, I am a sincere man with the sence of the humor, I do not like to do anything, even nothing to do I do not like. no one is going to read this bio anyway. if not more seriously I like programming in TypeScript in fullstack.</h3>
 <img align="center" alt="Coding" width="200" src="https://firebasestorage.googleapis.com/v0/b/pokemoh-ad0fa.appspot.com/o/e8f453469a3ec97ecd354df465d73913.gif?alt=media&token=042536b1-d19a-4438-abbd-482a78f61b20">
@@ -36,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soso21&show_icons=true&locale=en" alt="soso21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soso21&" alt="soso21" /></p>
+
+
