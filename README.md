@@ -73,9 +73,9 @@ src="https://img.shields.io/github/followers/sosso21?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sosso21"><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=sosso21&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="sosso21's GitHub stats" /></a>
+<a href="http://www.github.com/sosso21"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sosso21&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="sosso21's GitHub stats" /></a>
 
-<a href="http://www.github.com/sosso21"><img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sosso21&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sosso21"><img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sosso21&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br /><br /><br /><br /><br /><br />
 
 <a href="http://www.github.com/sosso21"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sosso21&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
