@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **sofianecontact21@gmail.com**
-
-- 📄 Know about my experiences [https://cvsofiane.pages.dev/](https://cvsofiane.pages.dev/)
+- 📫 How to reach me **hermesdev@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sofiane gherab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiane gherab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/
+  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://discord.gg/#6128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6128" height="30" width="40" /></a>
 </p>
 
