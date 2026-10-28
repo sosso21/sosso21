@@ -7,7 +7,7 @@
 <p align="center">
   <b>Full-stack developer</b> who loves building things with <b>TypeScript</b> — from the database to the pixel.
   <br/>
-  <i>Sincere, with a good sense of humour… and honestly, nobody reads this bio anyway.</i>
+  <i>Passionate about money, a sincere man with a sense of humour. I don't like doing anything — even doing nothing, I don't like.<br/>No one is going to read this bio anyway.</i>
 </p>
 
 <p align="center">
@@ -30,6 +30,94 @@
 | 👯 | Looking to collaborate on **TypeScript** projects |
 | 💬 | Ask me about **React**, **Node.js** & **NestJS** |
 | ⚡ | Fun fact: I'm looking for **1 500 000 $** 💸 |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/sosso21/plan-architecture-makhlouf">Plan Architecture</a></h3>
+      <p>Interactive 3D architectural mock-ups generated from floor plans: level cuts, exploded view, facades & sun-time simulation, downloadable PDF and <code>.glb</code> models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
+        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <a href="https://plan-architecture-makhlouf.sofianetop21-st.workers.dev/youssef-oued-ksari"><b>🔗 Live preview</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇩🇿 <a href="https://github.com/sosso21/dz-distribution-2026">DZ Distribution API</a></h3>
+      <p>Production-ready REST API exposing Algeria's administrative divisions — wilayas, daïras and communes — following the 2026 reorganization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/REST_API-0e75b6?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+      <a href="https://dz-distribution-2026.vercel.app"><b>🔗 Live API</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/sosso21/blur-to-4k">Blur to 4K</a></h3>
+      <p>AI image upscaling with Real-ESRGAN (x4): turns blurry, low-resolution pictures into sharp 4K images from a Jupyter notebook.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/sosso21/snak-reinfircement">Snake Reinforcement</a></h3>
+      <p>A Snake game where an agent learns to play by itself through deep reinforcement learning (Deep Q-Learning).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Pygame-2e7d32?style=flat-square&logo=python&logoColor=white" alt="Pygame" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗜️ <a href="https://github.com/sosso21/Image-compressor">Image Compressor</a></h3>
+      <p>Batch-converts images to WEBP and generates blurred thumbnails, fully dockerized with JupyterLab — one-command startup, no local Python needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Pillow-555555?style=flat-square" alt="Pillow" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🕷️ <a href="https://github.com/sosso21/guichet-emplois">Guichet Emplois Scraper</a></h3>
+      <p>Bot that scrapes job offers from the Canadian <i>Guichet-Emplois</i> job board by title and province, and stores them in MySQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Puppeteer-40b5a4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+        <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/sosso21/posthog-self-host">PostHog Self-Host</a></h3>
+      <p>Production deployment guide for a self-hosted PostHog on WSL2 / Linux, using the official versioned images instead of the dev repository.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/PostHog-1d4aff?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖱️ <a href="https://github.com/sosso21/reset-cursor">Reset Cursor</a></h3>
+      <p>Step-by-step procedure and scripts for a clean reinstallation of the Cursor editor on Windows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Windows-0078d4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
