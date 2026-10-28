@@ -5,9 +5,20 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <b>Full-stack developer</b> who loves building things with <b>TypeScript</b> — from the database to the pixel.
-  <br/>
-  <i>Passionate about money, a sincere man with a sense of humour. I don't like doing anything — even doing nothing, I don't like.<br/>No one is going to read this bio anyway.</i>
+  <b>Full-stack developer</b> who writes <b>TypeScript</b> from the database to the pixel, mostly by mistake.
+</p>
+
+<p align="center">
+  💸 Passions, in strict order: <b>money</b>, <b>women</b>, and <code>git push --force</code> on Friday at 6 PM.<br/>
+  🐶 I have way more empathy for animals than for humans. A pigeon has never asked me to “quickly fix one thing in prod”.<br/>
+  🦆 Gender: <b>duck</b>. Pronouns: <i>quack/quack</i>. Please respect my identity, I've been waddling through life since birth.<br/>
+  🛋️ I don't like doing anything. Even doing nothing, I don't like. I'm currently looking for something that does less than nothing.<br/>
+  📉 No one is going to read this bio anyway. If you made it this far, you have more free time than me.
+</p>
+
+<p align="center">
+  ⚠️ <b>Recruiters &amp; my current girlfriend</b>: before calling a lawyer, please type
+  <a href="https://www.google.com/search?q=second+degr%C3%A9"><b>second degré</b></a> to spare my life. 🙏
 </p>
 
 <p align="center">
